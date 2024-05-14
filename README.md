@@ -1,38 +1,13 @@
-# Hola 👋, soy Brayan Diaz C
+# Hola 👋, soy Francisco Fredes 
 
 Un Full Stack Developer 🧑‍💻 especializado en Ruby 💎, Python 🐍, y JavaScript 📜, con la habilidad de construir aplicaciones robustas desde la ideación hasta el despliegue en producción. Me especializo en el desarrollo de software que abarca tanto el backend como el frontend, y poseo conocimientos prácticos en arquitectura de soluciones en la nube ☁️ que complementan mi enfoque de Full Stack.
 
 Como docente 🎓 y creador de contenido tecnológico 📹, me apasiona compartir mis conocimientos aportando innovación 🚀 y fomentando el aprendizaje continuo 📚 en el campo tecnológico. Estoy siempre en busca de transformar ideas en soluciones tangibles 💡, disfruto cada paso del proceso creativo y técnico para hacer realidad los proyectos en los que me involucro.
 
-## 💼 Proyectos
 
-- [Propietta](https://www.propietta.com/) lidero el equipo de desarrollo, es una plataforma innovadora en el sector inmobiliario diseñada para simplificar el proceso de compra y venta de propiedades.
 
-## 🎓 Experiencia en la enseñanza
 
-Mi objetivo como educador es cultivar y enriquecer las habilidades de quienes enseño, proporcionándoles las herramientas necesarias para crecer en las areas que han elegido. A través de una metodología dinámica y llena de energía, me esfuerzo por hacer que los conceptos técnicos sean fáciles de aprender y aporten valor a su formación, utilizando ejemplos prácticos del mundo real.
 
-- [Adalid](https://www.adalid.cl/)
-- [Inforcap](https://inforcap.cl/)
-- [Desafío Latam](https://www.desafiolatam.com/)
-- [Universidad del Desarrollo](https://www.udd.cl/)
-
-## 🌐 Blog, Artículos y Videos
-
-- 📄 Soy muy activo en [LinkedIn](https://linkedin.com/in/brayandiazc)
-- 📝 Regularmente escribo artículos en mi [Blog](https://brayandiazc.com)
-- 📷 Imágenes y tonterías en [Instagram](https://instagram.com/brayandiaz_c) y [Twitter](https://twitter.com/brayandiazc)
-- 👨‍💻 Todos mis proyectos están disponibles en [Github](https://github.com/brayandiazc?tab=repositories)
-- 📽️ Subo videos cada semana en [YouTube](https://www.youtube.com/@brayandiazc) y [TikTok](https://tiktok.com/@brayandiazc)
-
-## 💡 Habilidades y conocimientos
-
-- 💬 Pregúntame sobre **Frontend**, **Backend**, **Cloud Computing** y **Diseño**. Me encanta hablar sobre **Emprendimiento**.
-
-## 📫 Contacto
-
-- Puedes contactarme a través de mi correo electrónico: **<brayandiazc@gmail.com>**
-- Puedes contactarme a través de **[Linkedin](https://www.linkedin.com/in/brayandiazc)**
 
 ### 🧑‍💻 Lenguajes de programación
 
