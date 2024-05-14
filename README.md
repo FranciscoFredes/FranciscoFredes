@@ -32,4 +32,4 @@ Como docente 🎓 y creador de contenido tecnológico 📹, me apasiona comparti
 
 ## 🌐 Redes sociales
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](www.linkedin.com/in/francisco-antonio-fredes-dittus-9a082b66) [![GitHub](https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=white)](https://github.com/brayandiazc/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](www.linkedin.com/in/francisco-antonio-fredes-dittus-9a082b66) [![GitHub](https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=white)](https://github.com/FranciscoFredes/)
